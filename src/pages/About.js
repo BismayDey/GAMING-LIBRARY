@@ -75,7 +75,7 @@ const About = () => {
       <h2 className="about-subtitle">Connect with Us</h2>
       <div className="social-links">
         <a
-          href="https://facebook.com"
+          href="https://github.com/BismayDey"
           target="_blank"
           rel="noopener noreferrer"
         >
