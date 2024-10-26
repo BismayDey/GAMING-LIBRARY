@@ -61,6 +61,16 @@ const App = () => {
       url: "https://bismaydey.github.io/PUZZLE-GAME/",
       description: "A legendary RPG game...",
     },
+    {
+      id: 6,
+      name: "Car Racing",
+      genre: "Racing",
+      platform: "PC",
+      image:
+        "https://images.crazygames.com/car-games-car-racing-game_16x9/20240628180656/car-games-car-racing-game_16x9-cover?auto=format,compress&q=75&cs=strip",
+      url: "https://racing-game-theta.vercel.app/",
+      description: "A legendary RPG game...",
+    },
     // Add more games here...
   ];
 
